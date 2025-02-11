@@ -36,13 +36,7 @@
 								<h1>Rory Mulhern Jnr.</h1>
 							</header>
 							<div class="content">
-								<p style="text-align: justify;"> I'm a driven business student at Dublin City University, specialising in analytics. 
-									With a solid academic foundation and hands-on experience in credit analysis and 
-									investment reporting at KKR & Co. Inc., I offer a blend of analytical rigor and practical
-									insight. Elected by peers as their representative for two consecutive years, I possess 
-									strong leadership and communication skills. Complemented by certifications in SQL, Python, 
-									Power BI and financial modeling, I am poised to contribute effectively to the finance industry upon 
-									graduation in May 2025.</p>
+								<p style="text-align: justify;">I'm a driven business student at Dublin City University, specialising in analytics. With a solid academic foundation and hands-on experience in credit analysis and investment reporting at KKR & Co. Inc., I offer a blend of analytical rigor and practical insight. Elected by peers as their representative for two consecutive years, I possess strong leadership and communication skills. Complemented by certifications in SQL, Python, Power BI and financial modeling, I am poised to contribute effectively to the finance industry upon graduation in May 2025.</p>
 									<ul class="actions">
 										<li><a href="CV.html" class="button next scrolly">My CV</a></li>
 									</ul>
@@ -142,22 +136,11 @@
 										<h3>About Me</h3>
 									</header>
 									<p style="text-align: justify;">
-										I am currently in my final year of Business Studies, specializing in Analytics, at Dublin City University. My fascination with analytics 
-										and numbers began at a young age, driven by a curiosity about patterns, how things work, and numerical data. From an early age, I aspired 
-										to work in the banking sector. Initially, I believed that accounting would be my ideal career path. However, after my first year of studies,
-										 I realized that accounting wasn't the right fit for me, and I decided to focus on analytics instead.</p>
-										 <p style="text-align: justify;">
-											During my third year of college, I had the opportunity to intern at Kohlberg Kravis Roberts (KKR) in their Client Solutions department 
-											(KCS), formerly known as the Client Partner Group (CPG). I was part of the Credit Strategy Reporting team, where my primary responsibilities 
-											included reporting on Leveraged Credit and Mixed Credit funds, as well as managing headcount reports and queries. Over the course of 15 
-											months, I gained valuable insights into the application of analytics in the credit industry and had the chance to apply my theoretical 
-											knowledge in a practical setting.
+										I am currently in my final year of Business Studies, specializing in Analytics, at Dublin City University. My fascination with analytics and numbers began at a young age, driven by a curiosity about patterns, how things work, and numerical data. From an early age, I aspired to work in the banking sector. Initially, I believed that accounting would be my ideal career path. However, after my first year of studies, I realized that accounting wasn't the right fit for me, and I decided to focus on analytics instead.</p>
+										 <p style="text-align: justify;"> During my third year of college, I had the opportunity to intern at Kohlberg Kravis Roberts (KKR) in their Client Solutions department (KCS), formerly known as the Client Partner Group (CPG). I was part of the Credit Strategy Reporting team, where my primary responsibilities included reporting on Leveraged Credit and Mixed Credit funds, as well as managing headcount reports and queries. Over the course of 15 months, I gained valuable insights into the application of analytics in the credit industry and had the chance to apply my theoretical knowledge in a practical setting.
 										</p>
 										<p style="text-align: justify;">
-											After graduation, I intend to pursue a Master's in 
-											Quantitative Finance at UCD. Following my studies, I aim to move to London or the United States and seek a role where I can
-											develop into a client-facing position. My experience at KKR has shown me that a client-facing role would best utilize both my soft
-											skills and analytical abilities.
+											After graduation, I intend to pursue a Master's in Quantitative Finance at UCD. Following my studies, I aim to move to London or the United States and seek a role where I candevelop into a client-facing position. My experience at KKR has shown me that a client-facing role would best utilize both my softskills and analytical abilities.
 										</p>
 									<ul class="actions">
 										<li><a href="CV.html" class="button next">My CV</a></li>
