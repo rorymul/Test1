@@ -1,0 +1,37 @@
+/usr/bin/docker run --name ghcrioactionsjekyllbuildpagesv1013_7a5d08 --label 844f6f --workdir /github/workspace --rm -e "INPUT_SOURCE" -e "INPUT_DESTINATION" -e "INPUT_FUTURE" -e "INPUT_BUILD_REVISION" -e "INPUT_VERBOSE" -e "INPUT_TOKEN" -e "HOME" -e "GITHUB_JOB" -e "GITHUB_REF" -e "GITHUB_SHA" -e "GITHUB_REPOSITORY" -e "GITHUB_REPOSITORY_OWNER" -e "GITHUB_REPOSITORY_OWNER_ID" -e "GITHUB_RUN_ID" -e "GITHUB_RUN_NUMBER" -e "GITHUB_RETENTION_DAYS" -e "GITHUB_RUN_ATTEMPT" -e "GITHUB_ACTOR_ID" -e "GITHUB_ACTOR" -e "GITHUB_WORKFLOW" -e "GITHUB_HEAD_REF" -e "GITHUB_BASE_REF" -e "GITHUB_EVENT_NAME" -e "GITHUB_SERVER_URL" -e "GITHUB_API_URL" -e "GITHUB_GRAPHQL_URL" -e "GITHUB_REF_NAME" -e "GITHUB_REF_PROTECTED" -e "GITHUB_REF_TYPE" -e "GITHUB_WORKFLOW_REF" -e "GITHUB_WORKFLOW_SHA" -e "GITHUB_REPOSITORY_ID" -e "GITHUB_TRIGGERING_ACTOR" -e "GITHUB_WORKSPACE" -e "GITHUB_ACTION" -e "GITHUB_EVENT_PATH" -e "GITHUB_ACTION_REPOSITORY" -e "GITHUB_ACTION_REF" -e "GITHUB_PATH" -e "GITHUB_ENV" -e "GITHUB_STEP_SUMMARY" -e "GITHUB_STATE" -e "GITHUB_OUTPUT" -e "RUNNER_OS" -e "RUNNER_ARCH" -e "RUNNER_NAME" -e "RUNNER_ENVIRONMENT" -e "RUNNER_TOOL_CACHE" -e "RUNNER_TEMP" -e "RUNNER_WORKSPACE" -e "ACTIONS_RUNTIME_URL" -e "ACTIONS_RUNTIME_TOKEN" -e "ACTIONS_CACHE_URL" -e "ACTIONS_ID_TOKEN_REQUEST_URL" -e "ACTIONS_ID_TOKEN_REQUEST_TOKEN" -e "ACTIONS_RESULTS_URL" -e GITHUB_ACTIONS=true -e CI=true -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/Test1/Test1":"/github/workspace" ghcr.io/actions/jekyll-build-pages:v1.0.13
+Configuration file: none
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+  Logging at level: debug
+      GitHub Pages: github-pages v232
+      GitHub Pages: jekyll v3.10.0
+             Theme: jekyll-theme-primer
+      Theme source: /usr/local/bundle/gems/jekyll-theme-primer-0.6.0
+         Requiring: jekyll-github-metadata
+         Requiring: jekyll-seo-tag
+         Requiring: jekyll-coffeescript
+         Requiring: jekyll-commonmark-ghpages
+         Requiring: jekyll-gist
+         Requiring: jekyll-github-metadata
+         Requiring: jekyll-paginate
+         Requiring: jekyll-relative-links
+         Requiring: jekyll-optional-front-matter
+         Requiring: jekyll-readme-index
+         Requiring: jekyll-default-layout
+         Requiring: jekyll-titles-from-headings
+   GitHub Metadata: Initializing...
+            Source: /github/workspace/.
+       Destination: /github/workspace/./_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+        Generating: JekyllOptionalFrontMatter::Generator finished in 0.000130514 seconds.
+        Generating: JekyllReadmeIndex::Generator finished in 0.001460245 seconds.
+        Generating: Jekyll::Paginate::Pagination finished in 8.555e-06 seconds.
+        Generating: JekyllRelativeLinks::Generator finished in 2.18e-05 seconds.
+        Generating: JekyllDefaultLayout::Generator finished in 1.3555e-05 seconds.
+        Generating: JekyllTitlesFromHeadings::Generator finished in 1.0289e-05 seconds.
+         Rendering: assets/css/style.scss
+  Pre-Render Hooks: assets/css/style.scss
+  Rendering Markup: assets/css/style.scss
+           Writing: /github/workspace/_site/assets/css/style.css
+                    done in 1.137 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
